@@ -16,7 +16,7 @@ var main = (function($) { var _ = {
 			preload: false,
 
 		// Slide duration (must match "duration.slide" in _vars.scss).
-			slideDuration: 500,
+			slideDuration: 100,
 
 		// Layout duration (must match "duration.layout" in _vars.scss).
 			layoutDuration: 750,
