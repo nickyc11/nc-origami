@@ -1,2 +1,1 @@
-# nc-origami
 origami collection :?
